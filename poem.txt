@@ -4,6 +4,7 @@ Red
 Orange
 Yellow
 Green
+black
 Blue
 Purple
 unicorn
